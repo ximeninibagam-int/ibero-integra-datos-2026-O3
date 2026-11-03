@@ -1,7 +1,7 @@
 -- ============================================================================
 -- SCRIPT DE SETUP: BASE DE DATOS Y FUENTES HETEROGÉNEAS
 -- ============================================================================
-IF DB_ID('DB_Customer360_Lab') IS NULL
+ IF B_ID('DB_Customer360_Lab') IS NULL
     CREATE DATABASE DB_Customer360_Lab;
 GO
 
